@@ -30,4 +30,97 @@
 .about {
     padding-top: 30px;
 }
+.image {
+
+    display: flex;
+    padding-top: 60px;
+
+}
+
+.title {
+    align-items: center;
+    padding-top: 50px;
+}
+
+.pic {
+    padding-bottom: 10px;
+}
+
+.cont1 {
+    display: flex;
+}
+
+.pictures {
+    padding-top: 40px;
+    margin: 30px;
+}
+.cont3 {
+    display: flex;
+    margin: 20px;
+    
+}
+
+#design-p {
+    display: none;
+}
+
+#develop {
+    display: none;
+}
+
+#product {
+    display: none;
+}
+
+.form {
+
+    padding-top: 60px;
+    text-align: center;
+    background-image: url(/images/backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    position: relative;
+    
+
+
+}
+.part {
+    display: flex;
+    margin: 60px;
+}
+#name{
+    height: 25px;
+    width: 400px;
+    margin-right: 10%;
+}
+#email{
+    height: 25px;
+    width: 400px;
+    margin-left: 20%;
+    margin-top: -2%;
+
+    
+}
+#message {
+    height: 100px;
+    width: 500px;
+    margin-right: 80px;
+    
+
+
+}
+button {
+    margin-right: 300px;
+
+}
+.footer {
+    text-align: center;
+
+    padding-top: 50px;
+
+}
+
+
 
