@@ -55,4 +55,43 @@ $(".three").mouseout(function () {
     $("#three").hide()
 });
 
+$(".four").mouseover(function () {
+    $("#four").show();
+});
+$(".four").mouseout(function () {
+    $("#four").hide();
+});
 
+
+
+$(".five").mouseover(function () {
+    $("#five").show();
+});
+$(".five").mouseout(function () {
+    $("#five").hide();
+});
+$(".six").mouseover(function () {
+    $("#six").show();
+
+});
+$(".six").mouseout(function () {
+    $("#six").hide();
+});
+
+
+$(".seven").mouseover(function () {
+    $("#seven").show()
+});
+$(".seven").mouseout(function () {
+    $("#seven").hide()
+
+
+});
+
+
+$(".eight").mouseover(function () {
+    $("#eight").show();
+});
+$(".eight").mouseout(function () {
+    $("#eight").hide();
+});
