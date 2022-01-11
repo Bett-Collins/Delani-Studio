@@ -11,4 +11,24 @@ $(document).ready(function () {
 
 
     });
-})
+    $("#development").click(function () {
+        $("#develop").show();
+        $("#development").hide();
+
+    });
+    $("#develop").click(function () {
+        $("#development").show();
+        $("#develop").hide();
+
+    });
+
+    $("#product-design").click(function () {
+        $("#product").show();
+        $("#product-design").hide();
+    });
+    $("#product").click(function () {
+        $("#product-design").show();
+        $("#product").hide();
+    });
+});
+
