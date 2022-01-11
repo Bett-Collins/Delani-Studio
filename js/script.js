@@ -32,3 +32,27 @@ $(document).ready(function () {
     });
 });
 
+$(".one").mouseover(function () {
+    $("#one").show();
+});
+$(".one").mouseout(function () {
+    $("#one").hide();
+});
+
+
+$(".two").mouseover(function () {
+    $("#two").show();
+});
+$(".two").mouseout(function () {
+    $("#two").hide();
+
+});
+
+$(".three").mouseover(function () {
+    $("#three").show()
+});
+$(".three").mouseout(function () {
+    $("#three").hide()
+});
+
+
