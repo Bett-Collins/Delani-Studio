@@ -1,3 +1,7 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+    font: size 40px;
+}
 .head {
     background-image: url(images/backgrounds/h_img.jpg);
 
@@ -8,9 +12,11 @@
     text-align: center;
     padding-top: 100px;
     color: white;
+   
 
 
 }
+
 .service {
 
     background-image: url(/images/backgrounds/s_image.jpg);
@@ -23,6 +29,7 @@
     padding-top: 150px;
 
 }
+
 .mouse {
     margin: 100px;
 }
@@ -30,6 +37,7 @@
 .about {
     padding-top: 30px;
 }
+
 .image {
 
     display: flex;
@@ -54,10 +62,11 @@
     padding-top: 40px;
     margin: 30px;
 }
+
 .cont3 {
     display: flex;
     margin: 20px;
-    
+
 }
 
 #design-p {
@@ -82,68 +91,82 @@
     height: 400px;
     color: white;
     position: relative;
-    
+
 
 
 }
+
 .part {
     display: flex;
     margin: 60px;
 }
-#name{
+
+#name {
     height: 25px;
     width: 400px;
     margin-right: 10%;
 }
-#email{
+
+#email {
     height: 25px;
     width: 400px;
     margin-left: 20%;
     margin-top: -2%;
 
-    
+
 }
+
 #message {
     height: 100px;
     width: 500px;
     margin-right: 80px;
-    
+
 
 
 }
+
 button {
     margin-right: 300px;
 
 }
+
 .footer {
     text-align: center;
 
     padding-top: 50px;
 
 }
-.one:hover{ 
+
+.one:hover {
     opacity: 0.5;
 }
 
-.two:hover{
+.two:hover {
     opacity: 0.3
 }
+
 .three:hover {
 
- opacity: 0.3
+    opacity: 0.3
 }
+
 .four:hover {
     opacity: 0.3
 }
+
 .five:hover {
     opacity: 0.3
 }
-.six:hover{
+
+.six:hover {
     opacity: 0.3
 }
+
 .seven:hover {
-    opacity: 0.3}
-.eight:hover{ 
+    opacity: 0.3
+}
+
+.eight:hover {
     opacity: 0.3
 }
 
@@ -166,11 +189,5 @@ button {
     right: 7px;
     color: white;
     position: absolute;
-    border:solid
-
-
-
-
+    border: solid
 }
-
-

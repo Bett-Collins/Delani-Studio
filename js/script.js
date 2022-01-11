@@ -105,6 +105,7 @@ function validate() {
 
 
 }
+
 function validName() {
     var name = document.getElementById("name").value;
     if (name == "") {
@@ -135,4 +136,3 @@ function message() {
 
 
 }
-
