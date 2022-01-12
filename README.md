@@ -1,4 +1,4 @@
-# DELANI-STUDIOO-IP3
+# DELANI-STUDIO
 ## Author
 Collins Kiprotich.
 ## Description
