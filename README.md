@@ -10,7 +10,7 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 Open your terminal
-Use this command to clone `$ git clone https://github.com/Bett-Collins/Delani-Studioo-IP3.git
+Use this command to clone `$ git clone https://github.com/Bett-Collins/Delani-Studio.git 
  This will clone the repositoty into your local folder
  __Enjoy :)__
 ### Technologies Used
@@ -19,4 +19,4 @@ CSS
 JavaScript and jQuey
 Git
 ### Live Site
-View [live](https://github.com/Bett-Collins/Delani-Studioo-IP3.git))
+View [live](https://github.com/Bett-Collins/Delani-Studio.git))
